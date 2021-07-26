@@ -7,9 +7,8 @@ And here we are !!
 
 ## Project #1 : Getting started with Numpy library
 
-![Numpy image](https://www.kindpng.com/picc/m/713-7136289_rougier-numpy-logo-name-below-02-python-numpy.png)
+![Numpy image](https://techscript24.com/wp-content/uploads/2020/10/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png)
 
 [More](https://github.com/ModoukpeA/Numpy_SCA_Projects/)
 
-![GitHub Logo](/images/logo.png)
 
