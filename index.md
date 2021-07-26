@@ -10,3 +10,6 @@ And here we are !!
 ! [Numpy image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FTJRJhJw_rougier-numpy-logo-name-below-02-python-numpy%2F&psig=AOvVaw2RHb6Tu0oiJQD57ONsDPCW&ust=1627383711218000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjshPnKgPICFQAAAAAdAAAAABAJ)
 
 [More](https://github.com/ModoukpeA/Numpy_SCA_Projects/)
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
