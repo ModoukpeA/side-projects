@@ -3,6 +3,6 @@ As I started the journey in the world of data, I found out how important it is t
 
 And here we are !!
 
-**Choukouriyah Modoukpe Arinloye** is my name and six months ago, my journey in data started... 
+**Choukouriyah Modoukpe Arinloye** is my name and six months ago, my journey in data science started... 
 
 ## Project #1 : 
