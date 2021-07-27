@@ -9,9 +9,6 @@ And here we are !!
 
 [1](https://user-images.githubusercontent.com/35114647/127143679-493d7aff-4f8f-44df-92f2-f8f4acd8e7c9.png)
 
-
-![Numpy image](https://techscript24.com/wp-content/uploads/2020/10/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png)
-
 [More](https://github.com/ModoukpeA/Numpy_SCA_Projects/)
 
 ## Project #2 : Analyzing an automobile company dataset
