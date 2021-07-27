@@ -13,6 +13,24 @@ And here we are !!
 
 ## Project #2 : Analyzing an automobile company dataset
 
-![](https://techscript24.com/wp-content/uploads/)
+![]()
 
 [More](https://github.com/ModoukpeA/Pandas_SCA_Projects/)
+
+## Project #3 : Analyzing a dataset on the importance of mentorship
+
+![]()
+
+[More](https://github.com/ModoukpeA/DataScience_Ovation_Consult/blob/main/the_importance_of_mentorship.ipynb)
+
+## Project #4 : Analyzing a dataset about the women running an enterprise
+
+![]()
+
+[More](https://github.com/ModoukpeA/DataScience_Ovation_Consult/blob/main/how_many_women_own_startups.ipynb)
+
+## Project #5 : Analyzing a dataset about the women running an enterprise
+
+![]()
+
+[More]()
