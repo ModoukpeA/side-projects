@@ -29,8 +29,8 @@ And here we are !!
 
 [More](https://github.com/ModoukpeA/DataScience_Ovation_Consult/blob/main/how_many_women_own_startups.ipynb)
 
-## Project #5 : Analyzing a dataset about the women running an enterprise
+## Project #5 : Analyzing the sales of a company
 
 ![]()
 
-[More]()
+[More](https://github.com/ModoukpeA/Company_Sales_EDA)
