@@ -34,3 +34,10 @@ And here we are !!
 ![]()
 
 [More](https://github.com/ModoukpeA/Company_Sales_EDA)
+
+## Project #6 : Analyzing a Titanic dataset
+
+![]()
+
+[More](https://github.com/ModoukpeA/Titanic-)
+
