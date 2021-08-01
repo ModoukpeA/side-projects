@@ -17,13 +17,13 @@ And here we are !!
 
 [More](https://github.com/ModoukpeA/Pandas_SCA_Projects/)
 
-## Project #3 : Analyzing a dataset on the importance of mentorship
+## Project #3 : Is mentorship important for young people ?
 
 ![]()
 
 [More](https://github.com/ModoukpeA/DataScience_Ovation_Consult/blob/main/the_importance_of_mentorship.ipynb)
 
-## Project #4 : Analyzing a dataset about the women running an enterprise
+## Project #4 : How many women run an enterprise in Benin ?
 
 ![]()
 
