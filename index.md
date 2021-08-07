@@ -41,7 +41,7 @@ And here we are !!
 
 [More](https://github.com/ModoukpeA/Titanic-)
 
-## Project #6 : Most used applications
+## Project #6 : What are the most used applications and why ?
 
 ![]()
 
