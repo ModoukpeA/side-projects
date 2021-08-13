@@ -46,3 +46,9 @@ And here we are !!
 ![]()
 
 [More](https://github.com/ModoukpeA/Common_Apps) 
+
+## Project #7 : Google Apps Ratings Analysis
+
+![]()
+
+[More](https://github.com/ModoukpeA/Google-Apps-Ratings) 
